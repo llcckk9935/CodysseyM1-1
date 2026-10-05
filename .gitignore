@@ -9,6 +9,15 @@ data/processed/*.csv
 dashboard/data.json
 outputs/analysis/*.csv
 outputs/forecast/
-# Publication of figures/report requires source/display rights review.
-outputs/figures/
+# Only the nine reviewed static figures are included; new figures stay excluded.
+outputs/figures/*
+!outputs/figures/01_levels_ma.png
+!outputs/figures/02_weekly_changes.png
+!outputs/figures/03_normalized_levels.png
+!outputs/figures/04_q1_lags.png
+!outputs/figures/05_q3_rolling.png
+!outputs/figures/06_q2_scatter.png
+!outputs/figures/07_q1_yearly_lags.png
+!outputs/figures/08_q1_influence.png
+!outputs/figures/09_forecast.png
 outputs/evidence/
