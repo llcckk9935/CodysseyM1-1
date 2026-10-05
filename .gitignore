@@ -20,4 +20,7 @@ outputs/figures/*
 !outputs/figures/07_q1_yearly_lags.png
 !outputs/figures/08_q1_influence.png
 !outputs/figures/09_forecast.png
-outputs/evidence/
+outputs/evidence/*
+!outputs/evidence/dashboard_overview.png
+!outputs/evidence/dashboard_q1_q2_q3.png
+!outputs/evidence/dashboard_forecast.png
