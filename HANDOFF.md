@@ -296,4 +296,5 @@ AI 사용 로그의 확인된 기록 후보:
   이름을 정리해 `outputs/evidence/`에 복사했다.
 - DASHBOARD_DEMO.md에 세 이미지와 화면 내 관찰값을 연결. README, REPORT, SUBMISSION_CHECKLIST 갱신.
 - 제공된 캡처에 나타난 화면은 확인했으나, 별도 브라우저 조작이나 필터 변경 시연은 수행하지 않음.
-- 스크린샷 3장은 `.gitignore`의 개별 허용 목록에 추가했다. 원격 저장소 업로드 후 이미지 응답을 확인한다.
+- 스크린샷 3장은 `.gitignore`의 개별 허용 목록에 추가했다. 공개 커밋 `be42b7c`로 main에 push 완료.
+- 캡처 PNG 세 파일 모두 원격 HTTP 200 및 `image/png` 확인. 루트의 사용자 제공 원본 파일은 보존.
