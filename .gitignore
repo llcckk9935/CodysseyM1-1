@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+# Local source/derived data: redistribution terms remain unverified.
+data/raw/
+data/processed/*.csv
+dashboard/data.json
+outputs/analysis/*.csv
+outputs/forecast/
+# Publication of figures/report requires source/display rights review.
+outputs/figures/
+outputs/evidence/
