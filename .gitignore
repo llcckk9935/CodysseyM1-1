@@ -27,3 +27,11 @@ outputs/evidence/*
 /스크린샷 2026-10-05 234245.png
 /스크린샷 2026-10-05 234257.png
 /스크린샷 2026-10-05 234305.png
+# Internal handoff, review, study, and superseded planning notes stay local.
+/HANDOFF.md
+/MISSION_REVIEW.md
+/SUBMISSION_CHECKLIST.md
+/INSIGHT_STUDY_GUIDE.md
+/PUBLICATION_REVIEW.md
+/시장지표_시계열분석_시나리오.md
+/시장지표_6개_원자료_확보_통합_설명서.md

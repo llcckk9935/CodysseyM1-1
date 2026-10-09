@@ -197,8 +197,8 @@ node scripts/check_dashboard.cjs
 ## 더 읽을 자료
 
 - [분석 리포트](REPORT.md)
-- [미션 요구사항 점검](MISSION_REVIEW.md)
 - [출처·수집·이용 안내](DATA_SOURCES.md)
+- [원자료 확보 상세 절차](시장지표_6개_원자료_확보_통합_설명서_수정본.md)
 - [데이터 검증 기록](DATA_VALIDATION.md)
+- [급변 구간 외부값 대조](EXTREME_SOURCE_CHECK.md)
 - [대시보드 실행 및 시연](DASHBOARD_DEMO.md)
-- [프로젝트 인수인계 기록](HANDOFF.md)
